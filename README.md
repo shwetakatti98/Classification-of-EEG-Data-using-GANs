@@ -1,1 +1,2 @@
-# Improving-classification-accuracy-on-EEG-data-using-GANs
+## Abstract
+The aim of this project is to classify the electroencephalography (EEG) data collected from Brain Computer Interaction (BCI) Competition IV using neural networks such as Recurrent Neural Network (RNN), Convolutional Recurrent Neural Network (CRNN), Generative Adversarial Network (GAN) and Variational Autoencoder (VAE). We first find a base model that performs best on the data, and then augment it with artificial GAN generated images to improve accuracy.
