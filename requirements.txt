@@ -1,0 +1,12 @@
+
+matplotlib
+numpy
+scipy
+pillow
+urllib3
+scikit-image
+data_preprocessing
+scikit-learn
+datetime
+sklearn
+tensorflow
